@@ -1,1 +1,1 @@
-# calc.c
+# calculator
