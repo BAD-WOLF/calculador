@@ -18,7 +18,7 @@ while(1){
  int num1, num2;
     char carak;
     printf(DEFAULT GREEN "\nSuas opções são:\n\n[+] para soma\n[-] para subtração\n[/] para divisão\n[*] para multiplicação\n[^] para potênciação\n[0] para sair\n\n");
-    printf("qual sua opção? >> "DEFAULT YELLOW);
+    printf("qual sua opção? >> ", DEFAULT YELLOW);
     scanf(" %c", &carak);
     printf(DEFAULT GREEN);
    if(carak == '+'){
