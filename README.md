@@ -1,1 +1,3 @@
 # calculador
+## Minha calculadora favorita
+A linguagem de programação C foi a minha base, foi por onde comecei a desenvolver meus primeiros códigos e também a ferramenta onde eu estudei algoritmo, embora eu não tenha ido a fundo aos estudos da ferramenta, o pouco tempo que a estudei, conseguir tirar muito proveito de seus autos ensinamentos, a linguagem C foi ima das poucas que realmente me ensinou, embora este código aos olhos de muitos possa ser melhorado com até a implementação de infix, prefix, postfix; eu deva dizer que a minha vontade de implementar essa lógica no exato momento é nula, claro que eu irei implementar mas não sei quando 
